@@ -1,0 +1,27 @@
+.metricas{
+    display: flex;
+    margin: 0 15em;
+}
+
+.container__metricas{
+    flex: 1 1 auto
+}
+
+.numero__metricas{
+    font-weight: 600;
+    font-size: 60px;
+    color: var(--vermelho-escuro);
+}
+
+.titulo__metricas{
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--preto);
+    padding: 0.7em 0;
+}
+
+.descricao__metricas{
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza-padrao);
+}
