@@ -31,3 +31,7 @@
     font-size: 14px;
     color: var(--cinza-padrao);
 }
+
+.avatar__depoimentos {
+    padding-bottom: 1em;
+}
